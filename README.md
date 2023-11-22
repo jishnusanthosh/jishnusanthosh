@@ -11,10 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on **a Social Media App**
- 
- 🌱 I’m currently learning **Ract, Tailwind, Microservices**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/jishnusanthosh/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/jishnusanthosh)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -37,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,typescript" />
     <img src="https://skillicons.dev/icons?i=nodejs,C++,javascript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
