@@ -28,6 +28,9 @@
   <a href="https://www.instagram.com/jiz__nu__vs/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href="https://leetcode.com/jishnusanthosh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
+  </a>
   <a href="https://jishnusanthosh.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
@@ -60,4 +63,5 @@
 
   <br/>
 </div>
+
 
