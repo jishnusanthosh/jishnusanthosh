@@ -1,198 +1,87 @@
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jishnusanthosh.jishnusanthosh" />
-
-# Hi 👋 I'm Jishnu Santhosh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
-
-### 🚀 Passionate MERN Stack Developer from India
-
-<img src="https://github-profile-trophy.vercel.app/?username=jishnusanthosh&theme=algolia&row=1&column=6" />
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
+  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+</picture>
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-- 🔭 Currently building **Social Media Application**
-- 🌱 Learning **Next.js, TypeScript, React Native**
-- 💻 Love building Full Stack Applications
-- ⚡ 3+ Years Technical Support Experience
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 🎯 Goal: Become a Senior Full Stack Developer
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
 
----
+</td>
+<td width="62%" valign="middle">
 
-# 🌐 Connect With Me
+### 🌸 My Anime Creations
 
-<p align="center">
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
 
-<a href="mailto:jishnusanthosh321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/jishnusanthosh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+> 💗 *"I don't watch anime, I code anime."*
 
-<a href="https://www.instagram.com/jiz__nu__vs/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.facebook.com/jishnu.santhosh.779/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/jishnusanthosh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://jishnusanthosh.online">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap,mui" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,typescript" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,aws" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Outlooks Ecommerce
-
-✔ Authentication
-
-✔ Razorpay Integration
-
-✔ Twilio OTP
-
-✔ Admin Dashboard
-
-✔ Product Management
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • EJS • JWT
-
----
-
-## 🏡 Heaven Estate Marketplace
-
-✔ Property Listings
-
-✔ User Authentication
-
-✔ Image Upload
-
-✔ Search & Filters
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
----
-
-## 🏥 Medicare Booking
-
-✔ Appointment Booking
-
-✔ Doctor Dashboard
-
-✔ User Login
-
-✔ Payment Integration
-
-**Tech Stack**
-
-React • Node.js • MongoDB
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=jishnusanthosh&show_icons=true&theme=tokyonight"/>
-
-<img width="390" src="https://streak-stats.demolab.com?user=jishnusanthosh&theme=tokyonight"/>
-
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnusanthosh&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnusanthosh&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jishnusanthosh/jishnusanthosh/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 💻 Coding Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-
-# ☕ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
-
----
+<br/>
 
 <div align="center">
 
-### Thanks for visiting ❤️
+### 📊 GitHub Stats & Graphs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=4000&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Awesome!;Open+Source+Enthusiast"/>
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.* 💗
 
 </div>
-
