@@ -1,87 +1,164 @@
 <div align="center">
 
-<!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
-</picture>
+# 👋 Hi, I'm Jishnu Santhosh
+
+### 💻 MERN Stack Developer | Full Stack Web Developer | Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
 
 </div>
 
-<br/>
+---
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
+## 🚀 About Me
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+💙 Passionate Full Stack MERN Developer from **Kerala, India**.
 
-</td>
-<td width="62%" valign="middle">
+- 🌱 Currently learning **Advanced MERN Stack**
+- 💻 Love building modern, scalable web applications
+- 🚀 Interested in Backend Development & REST APIs
+- 📚 Improving JavaScript, React & Node.js every day
+- ⚡ Open to collaborating on exciting projects
+- 🎯 Goal: Become a Senior Full Stack Developer
 
-### 🌸 My Anime Creations
+---
 
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
-
-<br/>
-
-> 💗 *"I don't watch anime, I code anime."*
-
-</td>
-</tr>
-</table>
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📊 GitHub Stats & Graphs
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman,npm,firebase&theme=dark" />
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+</div>
 
-<br/><br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+## 💼 Featured Projects
 
-<br/><br/>
+| 🚀 Project | 💻 Tech Stack | 🔗 Repository |
+|:-----------|:--------------|:-------------|
+| 🏡 Heaven Estate Marketplace | React • Node.js • Express • MongoDB | Add Repository |
+| 🛒 Outlooks E-Commerce | Node.js • Express • MongoDB • Razorpay | Add Repository |
+| 🩺 Medicare Booking System | React • Express • MongoDB | Add Repository |
+| 🌐 Personal Portfolio | HTML • CSS • JavaScript | https://www.jishnusanthosh.online |
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+---
 
-<br/><br/>
+## 📊 GitHub Statistics
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<div align="center">
 
-<br/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jishnusanthosh&show_icons=true&theme=github_dark&hide_border=true"/>
 
-### 🐍 Watch the snake eat my contributions
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnusanthosh&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+</div>
 
-<br/><br/>
+---
 
-### 📫 Let's Connect
+## 🔥 GitHub Streak
 
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<div align="center">
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=jishnusanthosh&theme=github-dark-blue&hide_border=true"/>
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
-<br/><br/>
+---
 
-*⭐️ Always learning, always building.* 💗
+## 📈 Contribution Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnusanthosh&bg_color=0D1117&color=58A6FF&line=7C3AED&point=58A6FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jishnusanthosh&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React
+- 🌐 Next.js
+- 🔥 TypeScript
+- ☁️ AWS
+- 🐳 Docker
+- 🔐 Authentication & Security
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build Production-Level MERN Projects
+- ✅ Learn Next.js
+- ✅ Learn TypeScript
+- ✅ Master Backend Architecture
+- ✅ Learn Docker & AWS
+- ✅ Contribute to Open Source
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman&theme=dark" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jishnusanthosh321@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<a href="https://github.com/jishnusanthosh">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jishnusanthosh">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="https://www.jishnusanthosh.online">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Favorite Quote
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jishnusanthosh&style=for-the-badge&color=58A6FF"/>
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ my repositories.
+
+</div>
 </div>
